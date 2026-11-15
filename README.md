@@ -89,3 +89,17 @@ Torque, rotational speed, and tool wear were the most influential features in th
 These findings highlight the importance of monitoring mechanical loading, equipment speed, and tool condition when assessing machine failure risk.
 
 Model results represent performance on a held-out test dataset, not a deployed industrial prediction system.
+
+
+
+
+## Dashboard Preview
+
+### Maintenance Overview
+![Maintenance Overview](reports/dashboard-screenshots/maintenance-overview.png)
+
+### Equipment Performance
+![Equipment Performance](reports/dashboard-screenshots/equipment-performance.png)
+
+### Predictive Risk Analysis
+![Predictive Risk Analysis](reports/dashboard-screenshots/predictive-risk-analysis.png)
